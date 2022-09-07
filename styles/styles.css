@@ -84,6 +84,6 @@ hr {
     width: 80%;
 }
 
-#content article {
+.article {
     display: none;
 }
