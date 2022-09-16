@@ -123,3 +123,12 @@ hr {
     font-weight: 200;
     font-size: 0.8rem;
 }
+
+.incontent .links {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.171);
+    border-radius: 5px;
+}
+
+.incontent .links a {
+    color: #7cb7ff;
+}

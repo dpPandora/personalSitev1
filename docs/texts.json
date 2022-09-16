@@ -4,6 +4,22 @@
     "date": "2022-09-09",
     "title": "About Me!",
     "id": "aboutMe",
+    "links": null,
+    "coverImg": null,
     "content": "Howdy,<br>I'm Pandora Lovelace (or well, thats how I'm identifying. I haven't changed my legal name yet).<br><br>I don't actually know what to put here,,,<br><br>Well, currently I'm attending a coding bootcamp at Ironhack for web development! Before that I was attending Florida Polytechnic University but I left because I felt like, for learning web development, it was just a bunch of fluff and unneed stress.<br><br>I really like programming and just making stuff in general. Truthfuly, I really want/wanted to go into game development but with how much as come to light about the working conditions and expectations I decided to stick to it as a hobby."
+},
+{
+    "postType": "work",
+    "date": "2022-09-12",
+    "title": "This website!",
+    "id": "websiteBrag",
+    "links": [
+    {
+        "link": "https://github.com/dpPandora/personalSitev1.git",
+        "linkType": "GitHub"
+    }
+    ],
+    "coverImg": null,
+    "content": "Sure this site may not look very impressive or actually be very impressive but I still think its cool. It's hosted on github pages so it static and I had to work around that fact. All of the content, i.e. the about me page and projects page, are generated from a JSON file so I don't have to go into the html everytime and copy and paste the same format every single time I wanna add something to it. There aren't any redirects to different pages either, it's all one page with elements being hidden/shown whenever needed. I was told about jellky or something which does basically the same thing after I was done making this but I probably wouldn't have used it either way because I'm not a fan about using other peoples work ~<~"
 }
 ]
